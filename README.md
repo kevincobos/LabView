@@ -21,22 +21,22 @@ This program converts a decimal number to binary. The main program uses a while 
 | 100     | 01100100 |  
   
   
-The program running is shown below as a gif animation and it is divided into two parts:    
+The program running is shown below as a GIF animation and it is divided into two parts:    
 - The front panel on the top, showing the user interface being used.  
 - The block diagram on the bottom, showing the code being executed.  
 
-Note: Image is a gif and may take a few seconds to load.  
+Note: The image is a GIF and may take a few seconds to load, depending on your bandwidth.  
 
 ![Decimal to Binary](/main/img/decimaltobinary.gif)
  ## Temperature Converter  
 This program converts a temperature from Fahrenheit to Celsius and vice versa. The user enters a temperature and selects the unit of measurement. The program then converts the temperature to the other unit of measurement. 
 To keep the code clean, I used two subVIs to do the math that convert the temperatures. 
   
-The program running is shown below as a gif animation and it is divided into two parts:    
+The program running is shown below as a GIF animation and it is divided into two parts:    
 - The front panel on the top, showing the user interface being used.  
 - The block diagram on the bottom, showing the code being executed.  
 
-Note: Image is a gif and may take a few seconds to load.  
+Note: The image is a GIF and may take a few seconds to load, depending on your bandwidth.   
 
 
 ![Temperature Converter](/main/img/temperatureconversion.gif)
