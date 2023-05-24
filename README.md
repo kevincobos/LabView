@@ -4,6 +4,7 @@
   - [Examples](#examples)
     - [Decimal to Binary](#decimal-to-binary)
     - [Temperature Converter](#temperature-converter) 
+    - [Traffic Light](#traffic-light)
 ## Description  
 This repository contains examples of LabView code that I have written.
 ## Examples  
@@ -27,7 +28,7 @@ The program running is shown below as a GIF animation and it is divided into two
 
 Note: The image is a GIF and may take a few seconds to load, depending on your bandwidth.  
 
-![Decimal to Binary](/main/img/decimaltobinary.gif)
+![Decimal to Binary](/main/img/decimaltobinary.gif)  
  ## Temperature Converter  
 This program converts a temperature from Fahrenheit to Celsius and vice versa. The user enters a temperature and selects the unit of measurement. The program then converts the temperature to the other unit of measurement. 
 To keep the code clean, I used two subVIs to do the math that convert the temperatures. 
