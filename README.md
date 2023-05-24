@@ -40,3 +40,14 @@ Note: The image is a GIF and may take a few seconds to load, depending on your b
 
 
 ![Temperature Converter](/main/img/temperatureconversion.gif)
+
+  ## Traffic Light  
+This program simulates a traffic light. The user can select between automatic or manual for the lights to change. The program then runs the traffic light simulation. The user can stop the simulation at any time by pushing the stop button.  
+
+  The program running is shown below as a GIF animation and it is divided into two parts:    
+- The front panel on the top, showing the user interface being used.  
+- The block diagram on the bottom, showing the code being executed.  
+
+Note: The image is a GIF and may take a few seconds to load, depending on your bandwidth.   
+![Traffic Light](/main/img/autofrontpanel.gif)  
+![Traffic Light](/main/img/autodiagrampanel.gif)  
