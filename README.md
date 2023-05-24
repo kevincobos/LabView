@@ -8,6 +8,6 @@
 This repository contains examples of LabView code that I have written.
 ## Examples
  ## Decimal to Binary
-    ![Decimal to Binary](/main/img/decimaltobinary.gif)
+![Decimal to Binary](/main/img/decimaltobinary.gif)
  ## Temperature Converter
-    ![Temperature Converter](/main/img/temperatureconverter.gif)
+![Temperature Converter](/main/img/temperatureconverter.gif)
